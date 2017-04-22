@@ -1,0 +1,147 @@
+#door1 {
+  text-align: center;
+  position: absolute; left: 7.5%; top: 7.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door2 {
+  text-align: center;
+  position: absolute; left: 22.5%; top: 7.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door3 {
+  text-align: center;
+  position: absolute; left: 37.5%; top: 7.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door4 {
+  text-align: center;
+  position: absolute; left: 52.5%; top: 7.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door5 {
+  text-align: center;
+  position: absolute; left: 67.5%; top: 7.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door6 {
+  text-align: center;
+  position: absolute; left: 82.5%; top: 7.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door7 {
+  text-align: center;
+  position: absolute; left: 7.5%; top: 37.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door8 {
+  text-align: center;
+  position: absolute; left: 22.5%; top: 37.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door9 {
+  text-align: center;
+  position: absolute; left: 37.5%; top: 37.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door10 {
+  text-align: center;
+  position: absolute; left: 52.5%; top: 37.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door11 {
+  text-align: center;
+  position: absolute; left: 67.5%; top: 37.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door12 {
+  text-align: center;
+  position: absolute; left: 82.5%; top: 37.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door13 {
+  text-align: center;
+  position: absolute; left: 7.5%; top: 67.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door14 {
+  text-align: center;
+  position: absolute; left: 22.5%; top: 67.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door15 {
+  text-align: center;
+  position: absolute; left: 37.5%; top: 67.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door16 {
+  text-align: center;
+  position: absolute; left: 52.5%; top: 67.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door17 {
+  text-align: center;
+  position: absolute; left: 67.5%; top: 67.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+#door18 {
+  text-align: center;
+  position: absolute; left: 82.5%; top: 67.5%;
+  width: 10%;
+  height: 25%;
+  background-color: green;
+}
+
+h3 {
+  margin: 0px;
+}
