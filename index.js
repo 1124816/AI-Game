@@ -36,13 +36,13 @@ function resolve(id, move) {
   } else {
     var count = [0, 0, 1];
     while(count[0] === count[1]) {
-      if(bot[map[bots[id][2][1]+move[1]*(count[2]+1)][bots[id][2][0]+move[0]*(count[2]+1)]][0]!=bots[id][0]&&bot[map[bots[id][2][1]+move[1]*(count[2]+1)][bots[id][2][0]+move[0]*(count[2]+1)]][0]!=0) {
+      if(bots[map[bots[id][2][1]+move[1]*(count[2]+1)][bots[id][2][0]+move[0]*(count[2]+1)]][0]!=bots[id][0]&&bots[map[bots[id][2][1]+move[1]*(count[2]+1)][bots[id][2][0]+move[0]*(count[2]+1)]][0]!=0) {
         count[1] += 1;
       }else{
         count[0] += 1;
         break
       };
-      if(bot[map[bots[id][2][1]-move[1]*count[2]][bots[id][2][0]-move[0]*count[2]]][0]===bots[id][0]&&bot[map[bots[id][2][1]-move[1]*count[2]][bots[id][2][0]-move[0]*count[2]]][0]!=0) {
+      if(bots[map[bots[id][2][1]-move[1]*count[2]][bots[id][2][0]-move[0]*count[2]]][0]===bots[id][0]&&bots[map[bots[id][2][1]-move[1]*count[2]][bots[id][2][0]-move[0]*count[2]]][0]!=0) {
         count[2] +=1;
       }else{
         break
